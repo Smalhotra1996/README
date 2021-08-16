@@ -4,6 +4,5 @@ This repository contains all of the notes taken by [Sonam](https://github.com/Sm
 <li>web development bootcamp</li>
 </ol>
 
-2. Github
-3. Gist
-4. VSCode
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
